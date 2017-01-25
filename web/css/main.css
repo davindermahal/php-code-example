@@ -1,0 +1,47 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+}
+.starter-template {
+    padding: 40px 15px;
+    text-align: center;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: #474747;
+}
+
+.container .text-muted {
+    margin: 20px 0;
+}
+iframe {
+    margin: 1em 0;
+    width: 100%;
+    height: 500px;
+}
+#blocked {
+    margin: 1em auto;
+    border: 5px red solid;
+    text-align: center;
+    height: 250px;
+    width: 100%;
+}
+#blocked h2 {
+    color: red;
+    font-size: 3em;
+    text-transform: uppercase;
+}
+#add-url {
+    margin-bottom: 1em;
+}
+#surfing-area {
+    margin-top: 3em;
+    border-top: dashed #ccc 1px;
+}
