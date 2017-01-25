@@ -3,7 +3,7 @@ PHPCodeExample
 
 In the more recent years I have worked on many PHP applications but unfortunately they are all projects owned by my 
  previous employers.  As a result, I do not have access nor can I share the code from those projects. As part of 
- coding sample, I have built this simple example application written in PHP using the Symfony 2 framework.  I used 
+ coding sample, I have built this simple example application written in PHP using the Symfony 3 framework.  I used 
  PHP 5.6 with a mySQL database on MacOS, a Unix based system.
 
 ##App description
